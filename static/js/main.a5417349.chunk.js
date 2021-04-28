@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-ghpages"]=this["webpackJsonpreact-ghpages"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);n(1);var r=n(3),c=n.n(r),s=n(0);var a=function(){return Object(s.jsx)("h1",{children:"hello"})};c.a.render(Object(s.jsx)(a,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.a5417349.chunk.js.map
