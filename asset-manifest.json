@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/timenlw.github.io/static/js/main.a5417349.chunk.js",
-    "main.js.map": "/timenlw.github.io/static/js/main.a5417349.chunk.js.map",
-    "runtime-main.js": "/timenlw.github.io/static/js/runtime-main.7ac86122.js",
-    "runtime-main.js.map": "/timenlw.github.io/static/js/runtime-main.7ac86122.js.map",
-    "static/js/2.e77282d1.chunk.js": "/timenlw.github.io/static/js/2.e77282d1.chunk.js",
-    "static/js/2.e77282d1.chunk.js.map": "/timenlw.github.io/static/js/2.e77282d1.chunk.js.map",
-    "index.html": "/timenlw.github.io/index.html",
-    "static/js/2.e77282d1.chunk.js.LICENSE.txt": "/timenlw.github.io/static/js/2.e77282d1.chunk.js.LICENSE.txt"
+    "main.js": "/Time-NLW.github.io/static/js/main.a5417349.chunk.js",
+    "main.js.map": "/Time-NLW.github.io/static/js/main.a5417349.chunk.js.map",
+    "runtime-main.js": "/Time-NLW.github.io/static/js/runtime-main.91da2e4b.js",
+    "runtime-main.js.map": "/Time-NLW.github.io/static/js/runtime-main.91da2e4b.js.map",
+    "static/js/2.e77282d1.chunk.js": "/Time-NLW.github.io/static/js/2.e77282d1.chunk.js",
+    "static/js/2.e77282d1.chunk.js.map": "/Time-NLW.github.io/static/js/2.e77282d1.chunk.js.map",
+    "index.html": "/Time-NLW.github.io/index.html",
+    "static/js/2.e77282d1.chunk.js.LICENSE.txt": "/Time-NLW.github.io/static/js/2.e77282d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ac86122.js",
+    "static/js/runtime-main.91da2e4b.js",
     "static/js/2.e77282d1.chunk.js",
     "static/js/main.a5417349.chunk.js"
   ]
